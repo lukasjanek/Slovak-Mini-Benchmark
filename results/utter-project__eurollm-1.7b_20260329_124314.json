@@ -1,0 +1,16 @@
+{
+  "model": "utter-project/eurollm-1.7b",
+  "timestamp": "20260329_124314",
+  "tasks_run": [
+    "qa"
+  ],
+  "results": {
+    "qa": {
+      "subtask": "generative",
+      "token_f1": 15.87,
+      "n_samples": 2054,
+      "bertscore_f1": 15.87
+    },
+    "overall_score": 15.87
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "model": "tabularisai/multilingual-sentiment-analysis",
+  "timestamp": "20260321_193146",
+  "tasks_run": [
+    "classification"
+  ],
+  "results": {
+    "classification": {
+      "accuracy": 34.26,
+      "f1_weighted": 35.1,
+      "n_classes_model": 5,
+      "n_classes_dataset": 3,
+      "n_samples": 1153
+    },
+    "overall_score": 35.1
+  }
+}

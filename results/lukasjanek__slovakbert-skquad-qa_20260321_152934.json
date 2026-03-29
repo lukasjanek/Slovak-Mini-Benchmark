@@ -1,0 +1,16 @@
+{
+  "model": "lukasjanek/slovakbert-skquad-qa",
+  "timestamp": "20260321_152934",
+  "tasks_run": [
+    "qa"
+  ],
+  "results": {
+    "qa": {
+      "subtask": "extractive",
+      "exact_match": 43.38,
+      "token_f1": 71.75,
+      "n_samples": 2054
+    },
+    "overall_score": 71.75
+  }
+}

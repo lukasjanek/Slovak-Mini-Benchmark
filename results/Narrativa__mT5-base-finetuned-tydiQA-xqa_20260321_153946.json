@@ -1,0 +1,16 @@
+{
+  "model": "Narrativa/mT5-base-finetuned-tydiQA-xqa",
+  "timestamp": "20260321_153946",
+  "tasks_run": [
+    "qa"
+  ],
+  "results": {
+    "qa": {
+      "subtask": "generative",
+      "token_f1": 50.44,
+      "n_samples": 2054,
+      "bertscore_f1": 79.64
+    },
+    "overall_score": 79.64
+  }
+}

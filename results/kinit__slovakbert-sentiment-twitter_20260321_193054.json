@@ -1,0 +1,17 @@
+{
+  "model": "kinit/slovakbert-sentiment-twitter",
+  "timestamp": "20260321_193054",
+  "tasks_run": [
+    "classification"
+  ],
+  "results": {
+    "classification": {
+      "accuracy": 58.4,
+      "f1_weighted": 60.2,
+      "n_classes_model": 3,
+      "n_classes_dataset": 3,
+      "n_samples": 1500
+    },
+    "overall_score": 60.2
+  }
+}

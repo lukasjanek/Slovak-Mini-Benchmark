@@ -1,0 +1,17 @@
+{
+  "model": "Milos/slovak-gpt-j-405M",
+  "timestamp": "20260321_201211",
+  "tasks_run": [
+    "generation"
+  ],
+  "results": {
+    "generation": {
+      "perplexity": 22.0837,
+      "perplexity_rating": "good",
+      "bpc": 0.5086,
+      "bpc_rating": "good",
+      "n_samples": 1500
+    },
+    "overall_score": 19.66
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "model": "nlptown/bert-base-multilingual-uncased-sentiment",
+  "timestamp": "20260321_193847",
+  "tasks_run": [
+    "classification"
+  ],
+  "results": {
+    "classification": {
+      "accuracy": 51.33,
+      "f1_weighted": 53.03,
+      "n_classes_model": 5,
+      "n_classes_dataset": 3,
+      "n_samples": 1500
+    },
+    "overall_score": 53.03
+  }
+}

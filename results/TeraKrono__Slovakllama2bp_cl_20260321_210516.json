@@ -1,0 +1,11 @@
+{
+  "model": "TeraKrono/Slovakllama2bp_cl",
+  "timestamp": "20260321_210516",
+  "tasks_run": [],
+  "results": {
+    "generation": {
+      "error": "abhishek/llama-2-7b-hf-small-shards is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'\nIf this is a private repository, make sure to pass a token having permission to this repo either by logging in with `hf auth login` or by passing `token=<your_token>`"
+    },
+    "overall_score": 0.0
+  }
+}

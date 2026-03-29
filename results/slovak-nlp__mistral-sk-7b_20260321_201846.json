@@ -1,0 +1,17 @@
+{
+  "model": "slovak-nlp/mistral-sk-7b",
+  "timestamp": "20260321_201846",
+  "tasks_run": [
+    "generation"
+  ],
+  "results": {
+    "generation": {
+      "perplexity": 17596.6674,
+      "perplexity_rating": "poor",
+      "bpc": 1.8643,
+      "bpc_rating": "fair",
+      "n_samples": 1500
+    },
+    "overall_score": 5.36
+  }
+}

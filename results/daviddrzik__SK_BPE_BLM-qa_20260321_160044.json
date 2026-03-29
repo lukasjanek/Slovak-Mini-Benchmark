@@ -1,0 +1,16 @@
+{
+  "model": "daviddrzik/SK_BPE_BLM-qa",
+  "timestamp": "20260321_160044",
+  "tasks_run": [
+    "qa"
+  ],
+  "results": {
+    "qa": {
+      "subtask": "extractive",
+      "exact_match": 0.0,
+      "token_f1": 0.0,
+      "n_samples": 2054
+    },
+    "overall_score": 0.0
+  }
+}

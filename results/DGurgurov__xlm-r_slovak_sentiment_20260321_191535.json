@@ -1,0 +1,17 @@
+{
+  "model": "DGurgurov/xlm-r_slovak_sentiment",
+  "timestamp": "20260321_191535",
+  "tasks_run": [
+    "classification"
+  ],
+  "results": {
+    "classification": {
+      "accuracy": 51.53,
+      "f1_weighted": 52.84,
+      "n_classes_model": 2,
+      "n_classes_dataset": 3,
+      "n_samples": 1500
+    },
+    "overall_score": 52.84
+  }
+}

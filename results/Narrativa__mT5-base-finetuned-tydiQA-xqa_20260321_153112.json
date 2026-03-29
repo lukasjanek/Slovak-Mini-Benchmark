@@ -1,0 +1,11 @@
+{
+  "model": "Narrativa/mT5-base-finetuned-tydiQA-xqa",
+  "timestamp": "20260321_153112",
+  "tasks_run": [],
+  "results": {
+    "qa": {
+      "error": "Using `bitsandbytes` 4-bit quantization requires bitsandbytes: `pip install -U bitsandbytes>=0.46.1`"
+    },
+    "overall_score": 0.0
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "model": "google-bert/bert-base-multilingual-cased",
+  "timestamp": "20260321_164225",
+  "tasks_run": [
+    "fill_mask"
+  ],
+  "results": {
+    "fill_mask": {
+      "token_accuracy": 0.0,
+      "pseudo_perplexity": Infinity,
+      "n_samples": 0
+    },
+    "overall_score": 0.0
+  }
+}

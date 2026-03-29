@@ -1,0 +1,17 @@
+{
+  "model": "visegradmedia-emotion/Emotion_RoBERTa_slovak6",
+  "timestamp": "20260321_192147",
+  "tasks_run": [
+    "classification"
+  ],
+  "results": {
+    "classification": {
+      "accuracy": 72.85,
+      "f1_weighted": 66.51,
+      "n_classes_model": 6,
+      "n_classes_dataset": 3,
+      "n_samples": 873
+    },
+    "overall_score": 66.51
+  }
+}

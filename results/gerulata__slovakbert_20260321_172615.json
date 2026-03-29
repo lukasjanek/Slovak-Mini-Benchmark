@@ -1,0 +1,15 @@
+{
+  "model": "gerulata/slovakbert",
+  "timestamp": "20260321_172615",
+  "tasks_run": [
+    "fill_mask"
+  ],
+  "results": {
+    "fill_mask": {
+      "token_accuracy": 76.0,
+      "pseudo_perplexity": 2.6136,
+      "n_samples": 1000
+    },
+    "overall_score": 38.26
+  }
+}

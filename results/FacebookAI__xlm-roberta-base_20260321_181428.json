@@ -1,0 +1,15 @@
+{
+  "model": "FacebookAI/xlm-roberta-base",
+  "timestamp": "20260321_181428",
+  "tasks_run": [
+    "fill_mask"
+  ],
+  "results": {
+    "fill_mask": {
+      "top1_accuracy": 73.7,
+      "top5_accuracy": 88.7,
+      "n_samples": 1000
+    },
+    "overall_score": 73.7
+  }
+}

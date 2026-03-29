@@ -1,0 +1,16 @@
+{
+  "model": "ApoTro/slovak-t5-small",
+  "timestamp": "20260315_201839",
+  "tasks_run": [
+    "qa"
+  ],
+  "results": {
+    "qa": {
+      "subtask": "generative",
+      "token_f1": 6.53,
+      "n_samples": 420,
+      "bertscore_f1": 59.33
+    },
+    "overall_score": 59.33
+  }
+}

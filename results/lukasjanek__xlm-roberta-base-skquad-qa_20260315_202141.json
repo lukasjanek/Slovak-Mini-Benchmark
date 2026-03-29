@@ -1,0 +1,16 @@
+{
+  "model": "lukasjanek/xlm-roberta-base-skquad-qa",
+  "timestamp": "20260315_202141",
+  "tasks_run": [
+    "qa"
+  ],
+  "results": {
+    "qa": {
+      "subtask": "extractive",
+      "exact_match": 42.38,
+      "token_f1": 70.47,
+      "n_samples": 420
+    },
+    "overall_score": 70.47
+  }
+}

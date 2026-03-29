@@ -1,0 +1,11 @@
+{
+  "model": "ApoTro/slovak-t5-small",
+  "timestamp": "20260315_201433",
+  "tasks_run": [],
+  "results": {
+    "qa": {
+      "error": "Using `bitsandbytes` 4-bit quantization requires bitsandbytes: `pip install -U bitsandbytes>=0.46.1`"
+    },
+    "overall_score": 0.0
+  }
+}

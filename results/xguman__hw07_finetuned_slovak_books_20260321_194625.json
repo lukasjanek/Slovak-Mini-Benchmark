@@ -1,0 +1,15 @@
+{
+  "model": "xguman/hw07_finetuned_slovak_books",
+  "timestamp": "20260321_194625",
+  "tasks_run": [
+    "generation"
+  ],
+  "results": {
+    "generation": {
+      "perplexity": 15.1975,
+      "bpc": 0.4942,
+      "n_samples": 1500
+    },
+    "overall_score": 20.23
+  }
+}

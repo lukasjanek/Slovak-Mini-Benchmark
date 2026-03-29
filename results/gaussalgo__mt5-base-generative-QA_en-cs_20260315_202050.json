@@ -1,0 +1,16 @@
+{
+  "model": "gaussalgo/mt5-base-generative-QA_en-cs",
+  "timestamp": "20260315_202050",
+  "tasks_run": [
+    "qa"
+  ],
+  "results": {
+    "qa": {
+      "subtask": "generative",
+      "token_f1": 51.01,
+      "n_samples": 420,
+      "bertscore_f1": 79.7
+    },
+    "overall_score": 79.7
+  }
+}

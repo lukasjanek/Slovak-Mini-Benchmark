@@ -1,0 +1,19 @@
+{
+  "model": "bigscience/bloom-560m",
+  "timestamp": "20260321_211043",
+  "tasks_run": [
+    "generation"
+  ],
+  "results": {
+    "generation": {
+      "perplexity": 337.9191,
+      "perplexity_rating": "poor",
+      "bpc": 1.1076,
+      "bpc_rating": "fair",
+      "reliable": false,
+      "eval_mode": "single_passage",
+      "n_samples": 500
+    },
+    "overall_score": 9.03
+  }
+}
