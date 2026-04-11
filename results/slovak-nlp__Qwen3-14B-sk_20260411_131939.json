@@ -1,0 +1,19 @@
+{
+  "model": "slovak-nlp/Qwen3-14B-sk",
+  "timestamp": "20260411_131939",
+  "tasks_run": [
+    "generation"
+  ],
+  "results": {
+    "generation": {
+      "perplexity": 3.6534,
+      "perplexity_rating": "excellent",
+      "bpc": 0.2449,
+      "bpc_rating": "excellent",
+      "reliable": true,
+      "eval_mode": "batched",
+      "n_samples": 1000
+    },
+    "overall_score": null
+  }
+}
